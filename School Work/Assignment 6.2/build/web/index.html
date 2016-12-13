@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<!--
+Mitch Meyer
+Today's Date
+Exercise Number
+Bellevue University
+Class Name
+-->
+<html>
+    <head>
+        <title>Murach Page</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        
+        <%
+        if(request.getMethod().equals("GET")){
+        %>
+        
+        <form method='post' action='http://localhost:8080/Assignment_6.2/Assignment6.2.jsp'>
+            Join our email list:
+            <input type='text' name='Name' maxlength='20'>
+            <input type='submit' value='Submit'>
+        </form>
+        }
+        <%
+        if(request.getMethod().equals("POST")){
+        out.println(request.getParameter("Name"));
+        }
+        %>
+    </body>
+</html>

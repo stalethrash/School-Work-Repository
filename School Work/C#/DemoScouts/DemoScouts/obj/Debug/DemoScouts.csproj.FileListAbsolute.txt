@@ -1,0 +1,6 @@
+c:\users\amanda\documents\visual studio 2013\Projects\DemoScouts\DemoScouts\bin\Debug\DemoScouts.exe.config
+c:\users\amanda\documents\visual studio 2013\Projects\DemoScouts\DemoScouts\bin\Debug\DemoScouts.exe
+c:\users\amanda\documents\visual studio 2013\Projects\DemoScouts\DemoScouts\bin\Debug\DemoScouts.pdb
+c:\users\amanda\documents\visual studio 2013\Projects\DemoScouts\DemoScouts\obj\Debug\DemoScouts.csprojResolveAssemblyReference.cache
+c:\users\amanda\documents\visual studio 2013\Projects\DemoScouts\DemoScouts\obj\Debug\DemoScouts.exe
+c:\users\amanda\documents\visual studio 2013\Projects\DemoScouts\DemoScouts\obj\Debug\DemoScouts.pdb

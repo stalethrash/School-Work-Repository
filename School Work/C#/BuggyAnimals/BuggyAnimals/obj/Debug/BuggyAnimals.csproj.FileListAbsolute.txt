@@ -1,0 +1,6 @@
+c:\users\amanda\documents\visual studio 2013\Projects\BuggyAnimals\BuggyAnimals\bin\Debug\BuggyAnimals.exe.config
+c:\users\amanda\documents\visual studio 2013\Projects\BuggyAnimals\BuggyAnimals\bin\Debug\BuggyAnimals.exe
+c:\users\amanda\documents\visual studio 2013\Projects\BuggyAnimals\BuggyAnimals\bin\Debug\BuggyAnimals.pdb
+c:\users\amanda\documents\visual studio 2013\Projects\BuggyAnimals\BuggyAnimals\obj\Debug\BuggyAnimals.csprojResolveAssemblyReference.cache
+c:\users\amanda\documents\visual studio 2013\Projects\BuggyAnimals\BuggyAnimals\obj\Debug\BuggyAnimals.exe
+c:\users\amanda\documents\visual studio 2013\Projects\BuggyAnimals\BuggyAnimals\obj\Debug\BuggyAnimals.pdb

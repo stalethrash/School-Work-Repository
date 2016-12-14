@@ -1,0 +1,1 @@
+c:\users\amanda\documents\visual studio 2013\Projects\FileReaderDebug\FileReaderDebug\bin\Debug\FileReaderDebug.exe.config

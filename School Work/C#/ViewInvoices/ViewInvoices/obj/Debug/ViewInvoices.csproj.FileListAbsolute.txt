@@ -1,0 +1,9 @@
+c:\users\amanda\documents\visual studio 2013\Projects\ViewInvoices\ViewInvoices\bin\Debug\ViewInvoices.exe.config
+c:\users\amanda\documents\visual studio 2013\Projects\ViewInvoices\ViewInvoices\bin\Debug\ViewInvoices.exe
+c:\users\amanda\documents\visual studio 2013\Projects\ViewInvoices\ViewInvoices\bin\Debug\ViewInvoices.pdb
+c:\users\amanda\documents\visual studio 2013\Projects\ViewInvoices\ViewInvoices\obj\Debug\ViewInvoices.csprojResolveAssemblyReference.cache
+c:\users\amanda\documents\visual studio 2013\Projects\ViewInvoices\ViewInvoices\obj\Debug\ViewInvoices.Form1.resources
+c:\users\amanda\documents\visual studio 2013\Projects\ViewInvoices\ViewInvoices\obj\Debug\ViewInvoices.Properties.Resources.resources
+c:\users\amanda\documents\visual studio 2013\Projects\ViewInvoices\ViewInvoices\obj\Debug\ViewInvoices.csproj.GenerateResource.Cache
+c:\users\amanda\documents\visual studio 2013\Projects\ViewInvoices\ViewInvoices\obj\Debug\ViewInvoices.exe
+c:\users\amanda\documents\visual studio 2013\Projects\ViewInvoices\ViewInvoices\obj\Debug\ViewInvoices.pdb

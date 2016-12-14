@@ -1,0 +1,6 @@
+c:\users\amanda\documents\visual studio 2013\Projects\TapeDemo\TapeDemo\bin\Debug\TapeDemo.exe.config
+C:\Users\Amanda\Documents\Visual Studio 2013\Projects\TapeDemo\TapeDemo\bin\Debug\TapeDemo.exe
+C:\Users\Amanda\Documents\Visual Studio 2013\Projects\TapeDemo\TapeDemo\bin\Debug\TapeDemo.pdb
+C:\Users\Amanda\Documents\Visual Studio 2013\Projects\TapeDemo\TapeDemo\obj\Debug\TapeDemo.csprojResolveAssemblyReference.cache
+C:\Users\Amanda\Documents\Visual Studio 2013\Projects\TapeDemo\TapeDemo\obj\Debug\TapeDemo.exe
+C:\Users\Amanda\Documents\Visual Studio 2013\Projects\TapeDemo\TapeDemo\obj\Debug\TapeDemo.pdb

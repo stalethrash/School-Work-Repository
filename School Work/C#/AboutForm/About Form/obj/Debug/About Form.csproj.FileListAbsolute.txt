@@ -1,0 +1,17 @@
+c:\users\amanda\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\amanda\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\amanda\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\amanda\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aboutLabel.resources
+c:\users\amanda\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\amanda\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\About Form.csproj.GenerateResource.Cache
+c:\users\amanda\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\amanda\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Amanda\Documents\Visual Studio 2013\Projects\AboutForm\About Form\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Amanda\Documents\Visual Studio 2013\Projects\AboutForm\About Form\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Amanda\Documents\Visual Studio 2013\Projects\AboutForm\About Form\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Amanda\Documents\Visual Studio 2013\Projects\AboutForm\About Form\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Amanda\Documents\Visual Studio 2013\Projects\AboutForm\About Form\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Amanda\Documents\Visual Studio 2013\Projects\AboutForm\About Form\obj\Debug\About Form.csprojResolveAssemblyReference.cache
+C:\Users\Amanda\Documents\Visual Studio 2013\Projects\AboutForm\About Form\obj\Debug\WindowsFormsApplication1.aboutLabel.resources
+C:\Users\Amanda\Documents\Visual Studio 2013\Projects\AboutForm\About Form\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Amanda\Documents\Visual Studio 2013\Projects\AboutForm\About Form\obj\Debug\About Form.csproj.GenerateResource.Cache

@@ -1,0 +1,6 @@
+c:\users\amanda\documents\visual studio 2013\Projects\Carpet\Carpet\bin\Debug\Carpet.exe.config
+c:\users\amanda\documents\visual studio 2013\Projects\Carpet\Carpet\bin\Debug\Carpet.exe
+c:\users\amanda\documents\visual studio 2013\Projects\Carpet\Carpet\bin\Debug\Carpet.pdb
+c:\users\amanda\documents\visual studio 2013\Projects\Carpet\Carpet\obj\Debug\Carpet.csprojResolveAssemblyReference.cache
+c:\users\amanda\documents\visual studio 2013\Projects\Carpet\Carpet\obj\Debug\Carpet.exe
+c:\users\amanda\documents\visual studio 2013\Projects\Carpet\Carpet\obj\Debug\Carpet.pdb

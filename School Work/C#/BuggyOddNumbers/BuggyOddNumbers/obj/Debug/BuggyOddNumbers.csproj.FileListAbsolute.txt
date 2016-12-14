@@ -1,0 +1,5 @@
+c:\users\amanda\documents\visual studio 2013\Projects\BuggyOddNumbers\BuggyOddNumbers\bin\Debug\BuggyOddNumbers.exe.config
+c:\users\amanda\documents\visual studio 2013\Projects\BuggyOddNumbers\BuggyOddNumbers\bin\Debug\BuggyOddNumbers.exe
+c:\users\amanda\documents\visual studio 2013\Projects\BuggyOddNumbers\BuggyOddNumbers\bin\Debug\BuggyOddNumbers.pdb
+c:\users\amanda\documents\visual studio 2013\Projects\BuggyOddNumbers\BuggyOddNumbers\obj\Debug\BuggyOddNumbers.exe
+c:\users\amanda\documents\visual studio 2013\Projects\BuggyOddNumbers\BuggyOddNumbers\obj\Debug\BuggyOddNumbers.pdb

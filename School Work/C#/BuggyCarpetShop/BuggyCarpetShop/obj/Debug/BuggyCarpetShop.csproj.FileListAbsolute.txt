@@ -1,0 +1,6 @@
+c:\users\amanda\documents\visual studio 2013\Projects\BuggyCarpetShop\BuggyCarpetShop\bin\Debug\BuggyCarpetShop.exe.config
+c:\users\amanda\documents\visual studio 2013\Projects\BuggyCarpetShop\BuggyCarpetShop\obj\Debug\BuggyCarpetShop.csprojResolveAssemblyReference.cache
+c:\users\amanda\documents\visual studio 2013\Projects\BuggyCarpetShop\BuggyCarpetShop\bin\Debug\BuggyCarpetShop.exe
+c:\users\amanda\documents\visual studio 2013\Projects\BuggyCarpetShop\BuggyCarpetShop\bin\Debug\BuggyCarpetShop.pdb
+c:\users\amanda\documents\visual studio 2013\Projects\BuggyCarpetShop\BuggyCarpetShop\obj\Debug\BuggyCarpetShop.exe
+c:\users\amanda\documents\visual studio 2013\Projects\BuggyCarpetShop\BuggyCarpetShop\obj\Debug\BuggyCarpetShop.pdb

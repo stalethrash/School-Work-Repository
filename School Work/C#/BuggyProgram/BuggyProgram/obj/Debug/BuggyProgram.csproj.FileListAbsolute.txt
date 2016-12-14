@@ -1,0 +1,5 @@
+c:\users\amanda\documents\visual studio 2013\Projects\BuggyProgram\BuggyProgram\bin\Debug\BuggyProgram.exe.config
+c:\users\amanda\documents\visual studio 2013\Projects\BuggyProgram\BuggyProgram\bin\Debug\BuggyProgram.exe
+c:\users\amanda\documents\visual studio 2013\Projects\BuggyProgram\BuggyProgram\bin\Debug\BuggyProgram.pdb
+c:\users\amanda\documents\visual studio 2013\Projects\BuggyProgram\BuggyProgram\obj\Debug\BuggyProgram.exe
+c:\users\amanda\documents\visual studio 2013\Projects\BuggyProgram\BuggyProgram\obj\Debug\BuggyProgram.pdb

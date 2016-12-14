@@ -1,0 +1,11 @@
+c:\users\amanda\documents\visual studio 2013\Projects\InternetAccess\InternetAccess\bin\Debug\InternetAccess.exe.config
+c:\users\amanda\documents\visual studio 2013\Projects\InternetAccess\InternetAccess\bin\Debug\InternetAccess.exe
+c:\users\amanda\documents\visual studio 2013\Projects\InternetAccess\InternetAccess\bin\Debug\InternetAccess.pdb
+c:\users\amanda\documents\visual studio 2013\Projects\InternetAccess\InternetAccess\bin\Debug\InternetAccess.exe.CodeAnalysisLog.xml
+c:\users\amanda\documents\visual studio 2013\Projects\InternetAccess\InternetAccess\bin\Debug\InternetAccess.exe.lastcodeanalysissucceeded
+c:\users\amanda\documents\visual studio 2013\Projects\InternetAccess\InternetAccess\obj\Debug\InternetAccess.csprojResolveAssemblyReference.cache
+c:\users\amanda\documents\visual studio 2013\Projects\InternetAccess\InternetAccess\obj\Debug\InternetAccess.Form1.resources
+c:\users\amanda\documents\visual studio 2013\Projects\InternetAccess\InternetAccess\obj\Debug\InternetAccess.Properties.Resources.resources
+c:\users\amanda\documents\visual studio 2013\Projects\InternetAccess\InternetAccess\obj\Debug\InternetAccess.csproj.GenerateResource.Cache
+c:\users\amanda\documents\visual studio 2013\Projects\InternetAccess\InternetAccess\obj\Debug\InternetAccess.exe
+c:\users\amanda\documents\visual studio 2013\Projects\InternetAccess\InternetAccess\obj\Debug\InternetAccess.pdb

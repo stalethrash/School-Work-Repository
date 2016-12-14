@@ -1,0 +1,6 @@
+c:\users\amanda\documents\visual studio 2013\Projects\GoBeyondTheBounds\GoBeyondTheBounds\bin\Debug\GoBeyondTheBounds.exe.config
+c:\users\amanda\documents\visual studio 2013\Projects\GoBeyondTheBounds\GoBeyondTheBounds\bin\Debug\GoBeyondTheBounds.exe
+c:\users\amanda\documents\visual studio 2013\Projects\GoBeyondTheBounds\GoBeyondTheBounds\bin\Debug\GoBeyondTheBounds.pdb
+c:\users\amanda\documents\visual studio 2013\Projects\GoBeyondTheBounds\GoBeyondTheBounds\obj\Debug\GoBeyondTheBounds.csprojResolveAssemblyReference.cache
+c:\users\amanda\documents\visual studio 2013\Projects\GoBeyondTheBounds\GoBeyondTheBounds\obj\Debug\GoBeyondTheBounds.exe
+c:\users\amanda\documents\visual studio 2013\Projects\GoBeyondTheBounds\GoBeyondTheBounds\obj\Debug\GoBeyondTheBounds.pdb

@@ -1,0 +1,6 @@
+c:\users\amanda\documents\visual studio 2013\Projects\Initials\Initials\bin\Debug\Initials.exe.config
+c:\users\amanda\documents\visual studio 2013\Projects\Initials\Initials\bin\Debug\Initials.exe
+c:\users\amanda\documents\visual studio 2013\Projects\Initials\Initials\bin\Debug\Initials.pdb
+c:\users\amanda\documents\visual studio 2013\Projects\Initials\Initials\obj\Debug\Initials.csprojResolveAssemblyReference.cache
+c:\users\amanda\documents\visual studio 2013\Projects\Initials\Initials\obj\Debug\Initials.exe
+c:\users\amanda\documents\visual studio 2013\Projects\Initials\Initials\obj\Debug\Initials.pdb

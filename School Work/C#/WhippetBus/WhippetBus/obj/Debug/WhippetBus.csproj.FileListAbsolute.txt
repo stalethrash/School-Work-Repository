@@ -1,0 +1,6 @@
+c:\users\amanda\documents\visual studio 2013\Projects\WhippetBus\WhippetBus\bin\Debug\WhippetBus.exe.config
+c:\users\amanda\documents\visual studio 2013\Projects\WhippetBus\WhippetBus\bin\Debug\WhippetBus.exe
+c:\users\amanda\documents\visual studio 2013\Projects\WhippetBus\WhippetBus\bin\Debug\WhippetBus.pdb
+c:\users\amanda\documents\visual studio 2013\Projects\WhippetBus\WhippetBus\obj\Debug\WhippetBus.csprojResolveAssemblyReference.cache
+c:\users\amanda\documents\visual studio 2013\Projects\WhippetBus\WhippetBus\obj\Debug\WhippetBus.exe
+c:\users\amanda\documents\visual studio 2013\Projects\WhippetBus\WhippetBus\obj\Debug\WhippetBus.pdb

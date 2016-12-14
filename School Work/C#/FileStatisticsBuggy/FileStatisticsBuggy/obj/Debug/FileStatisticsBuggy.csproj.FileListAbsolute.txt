@@ -1,0 +1,6 @@
+c:\users\amanda\documents\visual studio 2013\Projects\FileStatisticsBuggy\FileStatisticsBuggy\bin\Debug\FileStatisticsBuggy.exe.config
+c:\users\amanda\documents\visual studio 2013\Projects\FileStatisticsBuggy\FileStatisticsBuggy\bin\Debug\FileStatisticsBuggy.exe
+c:\users\amanda\documents\visual studio 2013\Projects\FileStatisticsBuggy\FileStatisticsBuggy\bin\Debug\FileStatisticsBuggy.pdb
+c:\users\amanda\documents\visual studio 2013\Projects\FileStatisticsBuggy\FileStatisticsBuggy\obj\Debug\FileStatisticsBuggy.csprojResolveAssemblyReference.cache
+c:\users\amanda\documents\visual studio 2013\Projects\FileStatisticsBuggy\FileStatisticsBuggy\obj\Debug\FileStatisticsBuggy.exe
+c:\users\amanda\documents\visual studio 2013\Projects\FileStatisticsBuggy\FileStatisticsBuggy\obj\Debug\FileStatisticsBuggy.pdb

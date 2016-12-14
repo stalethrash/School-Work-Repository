@@ -1,0 +1,6 @@
+c:\users\amanda\documents\visual studio 2013\Projects\MultiplicationTable\MultiplicationTable\bin\Debug\MultiplicationTable.exe.config
+c:\users\amanda\documents\visual studio 2013\Projects\MultiplicationTable\MultiplicationTable\bin\Debug\MultiplicationTable.exe
+c:\users\amanda\documents\visual studio 2013\Projects\MultiplicationTable\MultiplicationTable\bin\Debug\MultiplicationTable.pdb
+c:\users\amanda\documents\visual studio 2013\Projects\MultiplicationTable\MultiplicationTable\obj\Debug\MultiplicationTable.csprojResolveAssemblyReference.cache
+c:\users\amanda\documents\visual studio 2013\Projects\MultiplicationTable\MultiplicationTable\obj\Debug\MultiplicationTable.exe
+c:\users\amanda\documents\visual studio 2013\Projects\MultiplicationTable\MultiplicationTable\obj\Debug\MultiplicationTable.pdb

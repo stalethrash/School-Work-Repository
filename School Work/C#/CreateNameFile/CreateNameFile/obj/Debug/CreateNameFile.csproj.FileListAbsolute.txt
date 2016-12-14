@@ -1,0 +1,6 @@
+c:\users\amanda\documents\visual studio 2013\Projects\CreateNameFile\CreateNameFile\bin\Debug\CreateNameFile.exe.config
+c:\users\amanda\documents\visual studio 2013\Projects\CreateNameFile\CreateNameFile\bin\Debug\CreateNameFile.exe
+c:\users\amanda\documents\visual studio 2013\Projects\CreateNameFile\CreateNameFile\bin\Debug\CreateNameFile.pdb
+c:\users\amanda\documents\visual studio 2013\Projects\CreateNameFile\CreateNameFile\obj\Debug\CreateNameFile.csprojResolveAssemblyReference.cache
+c:\users\amanda\documents\visual studio 2013\Projects\CreateNameFile\CreateNameFile\obj\Debug\CreateNameFile.exe
+c:\users\amanda\documents\visual studio 2013\Projects\CreateNameFile\CreateNameFile\obj\Debug\CreateNameFile.pdb

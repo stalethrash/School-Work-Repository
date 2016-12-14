@@ -1,0 +1,6 @@
+c:\users\amanda\documents\visual studio 2013\Projects\InchesToFeet\InchesToFeet\bin\Debug\InchesToFeet.exe.config
+c:\users\amanda\documents\visual studio 2013\Projects\InchesToFeet\InchesToFeet\bin\Debug\InchesToFeet.exe
+c:\users\amanda\documents\visual studio 2013\Projects\InchesToFeet\InchesToFeet\bin\Debug\InchesToFeet.pdb
+c:\users\amanda\documents\visual studio 2013\Projects\InchesToFeet\InchesToFeet\obj\Debug\InchesToFeet.csprojResolveAssemblyReference.cache
+c:\users\amanda\documents\visual studio 2013\Projects\InchesToFeet\InchesToFeet\obj\Debug\InchesToFeet.exe
+c:\users\amanda\documents\visual studio 2013\Projects\InchesToFeet\InchesToFeet\obj\Debug\InchesToFeet.pdb

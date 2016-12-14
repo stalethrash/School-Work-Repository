@@ -1,0 +1,9 @@
+c:\users\amanda\documents\visual studio 2013\Projects\EnterInvoices\EnterInvoices\bin\Debug\EnterInvoices.exe.config
+c:\users\amanda\documents\visual studio 2013\Projects\EnterInvoices\EnterInvoices\bin\Debug\EnterInvoices.exe
+c:\users\amanda\documents\visual studio 2013\Projects\EnterInvoices\EnterInvoices\bin\Debug\EnterInvoices.pdb
+c:\users\amanda\documents\visual studio 2013\Projects\EnterInvoices\EnterInvoices\obj\Debug\EnterInvoices.csprojResolveAssemblyReference.cache
+c:\users\amanda\documents\visual studio 2013\Projects\EnterInvoices\EnterInvoices\obj\Debug\EnterInvoices.EnterInvoices.resources
+c:\users\amanda\documents\visual studio 2013\Projects\EnterInvoices\EnterInvoices\obj\Debug\EnterInvoices.Properties.Resources.resources
+c:\users\amanda\documents\visual studio 2013\Projects\EnterInvoices\EnterInvoices\obj\Debug\EnterInvoices.csproj.GenerateResource.Cache
+c:\users\amanda\documents\visual studio 2013\Projects\EnterInvoices\EnterInvoices\obj\Debug\EnterInvoices.exe
+c:\users\amanda\documents\visual studio 2013\Projects\EnterInvoices\EnterInvoices\obj\Debug\EnterInvoices.pdb

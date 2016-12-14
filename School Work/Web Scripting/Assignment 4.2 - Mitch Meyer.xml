@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css'>
+	id {
+		display: block;
+		text-align: left;}
+	lastName{
+		display: block;
+		text-align: center;
+		margin-left: 15em;}
+	firstName{
+		display: block;
+		text-align: center;
+		margin-left: 35em;}
+	classNumber{
+		display: block;
+		text-align: center;
+		margin-left: 55em;}
+	email{
+		display: block; 
+		text-align: center;
+		margin-left: 75em;}	
+<xml-stylesheet?>
+	<!DOCTYPE school [
+		<!ELEMENT school (student*) >
+		<!ELEMENT student (id, lastName, firstName, classNumber, email) >
+		<!ELEMENT id (#PCDATA) >
+		<!ELEMENT lastName (#PCDATA) >
+		<!ELEMENT firstName (#PCDATA) >
+		<!ELEMENT classNumber (#PCDATA) >
+		<!ELEMENT email (#PCDATA) >
+		] >
+
+<school>
+
+	<student>
+		<id >"Student807"</id>
+		<lastName>"Catlett"</lastName>
+		<firstName>"Herbert"</firstName>
+		<classNumber>"55"</classNumber>
+		<email>"herbert.catlett@firstdatacorp.com"</email>		
+	</student>
+
+	<student>
+		<id >"Student814"</id>
+		<lastName>"Conti"</lastName>
+		<firstName>"Gilberto"</firstName>
+		<classNumber>"55"</classNumber>
+		<email>"gilberto.conti@firstdatacorp.com"</email>		
+	</student>
+
+	<student>
+		<id >"Student808"</id>
+		<lastName>"Flekke"</lastName>
+		<firstName>"Curtis"</firstName>
+		<classNumber>"55"</classNumber>
+		<email>"cis-tap@flekke.com"</email>		
+	</student>
+
+	<student>
+		<id >"Student809"</id>
+		<lastName>"Golla"</lastName>
+		<firstName>"Michael"</firstName>
+		<classNumber>"55"</classNumber>
+		<email>"michael.golla@firstdatacorp.com"</email>		
+	</student>
+
+	<student>
+		<id >"Student815"</id>
+		<lastName>"Grossoehme"</lastName>
+		<firstName>"Keith"</firstName>
+		<classNumber>"55"</classNumber>
+		<email>"keithcbk@cox.net"</email>		
+	</student>
+
+	<student>
+		<id >"Student817"</id>
+		<lastName>"Guraedy"</lastName>
+		<firstName>"Phillip"</firstName>
+		<classNumber>"55"</classNumber>
+		<email>"phillip@guraedy.com"</email>		
+	</student>
+
+	<student>
+		<id >"Student813"</id>
+		<lastName>"Haugen"</lastName>
+		<firstName>"Melissa"</firstName>
+		<classNumber>"55"</classNumber>
+		<email>"melissa.haugen@firstdatacorp.com"</email>		
+	</student>
+
+	<student>
+		<id >"Student826"</id>
+		<lastName>"Kunz"</lastName>
+		<firstName>"Matthew"</firstName>
+		<classNumber>"55"</classNumber>
+		<email>"cpu_rx@hotmail.com"</email>		
+	</student>
+	
+	<student>
+		<id >"Student811"</id>
+		<lastName>"Skeen"</lastName>
+		<firstName>"Angela"</firstName>
+		<classNumber>"55"</classNumber>
+		<email>"anne_skeen@yahoo.com"</email>		
+	</student>
+
+	<student>
+		<id >"Student812"</id>
+		<lastName>"Vanderloo"</lastName>
+		<firstName>"Mark"</firstName>
+		<classNumber>"55"</classNumber>
+		<email>"mjvanderloo@yahoo.com"</email>		
+	</student>
+
+	<student>
+		<id >"Student819"</id>
+		<lastName>"Vanderveen"</lastName>
+		<firstName>"Ronald"</firstName>
+		<classNumber>"55"</classNumber>
+		<email>"ron.vanderveen@firstdatacorp.com"</email>		
+	</student>
+
+	<student>
+		<id >"Student818"</id>
+		<lastName>"Vaughn"</lastName>
+		<firstName>"Barry"</firstName>
+		<classNumber>"55"</classNumber>
+		<email>"von7668@cox.net"</email>		
+	</student>
+	
+</school>

@@ -1,0 +1,92 @@
+<!DOCTYPE HTML PUBLIC '-//W3C//DTD HTML 4.01//EN'
+  'http://www.w3.org/TR/1999/REC-html-19991224/strict.dtd'>
+
+<html>
+
+   <!--
+      Example: form4.html
+    -->
+
+  <head>
+
+    <title> Will Nebraska Win? </title>
+
+  </head>
+
+  <body>
+
+    <form action='http://academic1.bellevue.edu/CIS33703/Assignment52/postPerl.pl' method='post'>
+
+    <p>
+      <input type='hidden' name='hiddenInput' value='hiddenValue' />
+    </p>
+
+    <p>
+      <label>
+        Will Nebraska beat Iowa on black Friday?
+        <br />
+      </label>
+      <p>
+      <label>
+        <input name='radioButton' type='radio' value='Radio_1'
+               checked='checked' />
+               Yes, the Huskers are gonna shut out the Hawkeyes!
+      </label>
+      <br />
+      <label>
+        <input name='radioButton' type='radio' value='Radio_2' />
+        Yes, the Huskers will squeak out a victory over Iowa.
+      </label>
+      <br />
+      <label>
+        <input name='radioButton' type='radio' value='Radio_3' />
+        No, the Huskers will narrowly lose at home to the Hawkeyes.
+      </label>
+      <br />
+      <label>
+        <input name='radioButton' type='radio' value='Radio_4' />
+        No, the Huskers get crushed at home by the playoff bound Hawkeyes!
+      </label>
+    </p>
+
+
+    <p>
+      <input type='submit' value='Submit' />
+    </p>
+
+    <p>
+      <input type='reset' value='Clear Entries' />
+    </p>
+
+    </form>
+
+    <!--
+
+      Could use:
+      print start_form();  or
+      print start_form(-method=>"POST", -action=>"URL to PERL file");
+      print submit("ButtonWords");
+      print end_form();
+    //-->
+
+    <hr>
+
+    <div>
+
+      <a href='index.html'>
+        HOME
+      </a>
+
+    </div>
+
+    <hr>
+
+      <div>
+        <a href='http://validatpr.w3.org/chack/referer'>
+          <img src='http://www.w3.org/Icons/valid-html401'
+               alt='Valid HTML 4.01!' height='31' width='88'>
+        </a>
+      </div>
+
+  </body>
+</html>

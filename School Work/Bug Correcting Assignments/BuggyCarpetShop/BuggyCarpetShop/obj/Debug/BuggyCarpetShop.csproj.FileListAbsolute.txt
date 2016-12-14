@@ -4,3 +4,6 @@ c:\users\amanda\documents\visual studio 2013\Projects\BuggyCarpetShop\BuggyCarpe
 c:\users\amanda\documents\visual studio 2013\Projects\BuggyCarpetShop\BuggyCarpetShop\bin\Debug\BuggyCarpetShop.pdb
 c:\users\amanda\documents\visual studio 2013\Projects\BuggyCarpetShop\BuggyCarpetShop\obj\Debug\BuggyCarpetShop.exe
 c:\users\amanda\documents\visual studio 2013\Projects\BuggyCarpetShop\BuggyCarpetShop\obj\Debug\BuggyCarpetShop.pdb
+C:\Users\Meyers\Documents\GitHub\School-Work-Repository\School Work\C#\BuggyCarpetShop\BuggyCarpetShop\bin\Debug\BuggyCarpetShop.exe.config
+C:\Users\Meyers\Documents\GitHub\School-Work-Repository\School Work\C#\BuggyCarpetShop\BuggyCarpetShop\obj\Debug\BuggyCarpetShop.exe
+C:\Users\Meyers\Documents\GitHub\School-Work-Repository\School Work\C#\BuggyCarpetShop\BuggyCarpetShop\obj\Debug\BuggyCarpetShop.pdb
